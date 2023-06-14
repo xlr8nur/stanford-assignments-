@@ -7,7 +7,7 @@ import stanford.karel.*;
 
 public class VoteCounterKarel extends SuperKarel {
         public void run () {
-                while(frontIsClear) {
+                while(frontIsClear)) {
                       move();
                       if(noBeeperPresent())
                             removeChad();
