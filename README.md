@@ -1,4 +1,4 @@
 
 cs106A
 
-Programming methodology course  assignments solutions that given by Mehran Sahami
+Programming methodology course  assignment's solutions that given by Mehran Sahami
